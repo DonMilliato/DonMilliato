@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dumisani Manzini
+- 👋 Hi, I’m Dumisani Manzini
 - 👀 I’m interested in Tech, Content Creation, Cars, Action Movies/Series
 - 🌱 I’m currently learning More about Software Development and programming languages
 - 💞️ I’m looking to collaborate on anything that involves tech or software developement
